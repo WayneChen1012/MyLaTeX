@@ -1,3 +1,4 @@
 *.txt text eol=lf
 *.aux text eol=lf
 *.log text eol=lf
+*.zip filter=lfs diff=lfs merge=lfs -text
