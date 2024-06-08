@@ -1,25 +1,24 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (MiKTeX 24.4) (preloaded format=xelatex 2024.6.8)  8 JUN 2024 17:11
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.12.20)  8 JUN 2024 18:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**./hello.tex
-(hello.tex
-LaTeX2e <2024-06-01>
-L3 programming layer <2024-05-08>
-(C:\MiKTeX\tex/latex/ieeetran\IEEEtran.cls
+**hello
+(./hello.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-11>
+(c:/texlive/2023/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
 Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
 -- See the "IEEEtran_HOWTO" manual for usage information.
 -- http://www.michaelshell.org/tex/ieeetran/
-\@IEEEtrantmpdimenA=\dimen141
-\@IEEEtrantmpdimenB=\dimen142
-\@IEEEtrantmpdimenC=\dimen143
-\@IEEEtrantmpcountA=\count190
-\@IEEEtrantmpcountB=\count191
-\@IEEEtrantmpcountC=\count192
+\@IEEEtrantmpdimenA=\dimen140
+\@IEEEtrantmpdimenB=\dimen141
+\@IEEEtrantmpdimenC=\dimen142
+\@IEEEtrantmpcountA=\count183
+\@IEEEtrantmpcountB=\count184
+\@IEEEtrantmpcountC=\count185
 \@IEEEtrantmptoksA=\toks17
-LaTeX Font Info:    Trying to load font information for TU+ptm on input line 50
-3.
+LaTeX Font Info:    Trying to load font information for TU+ptm on input line 503.
 LaTeX Font Info:    No file TUptm.fd. on input line 503.
 
 LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
@@ -27,11 +26,11 @@ LaTeX Font Warning: Font shape `TU/ptm/m/n' undefined
 
 -- Using 8.5in x 11in (letter) paper.
 -- Using DVI output.
-\@IEEEnormalsizeunitybaselineskip=\dimen144
+\@IEEEnormalsizeunitybaselineskip=\dimen143
 -- This is a 10 point document.
-\CLASSINFOnormalsizebaselineskip=\dimen145
-\CLASSINFOnormalsizeunitybaselineskip=\dimen146
-\IEEEnormaljot=\dimen147
+\CLASSINFOnormalsizebaselineskip=\dimen144
+\CLASSINFOnormalsizeunitybaselineskip=\dimen145
+\IEEEnormaljot=\dimen146
 
 LaTeX Font Warning: Font shape `TU/ptm/bx/n' undefined
 (Font)              using `TU/ptm/m/n' instead on input line 1090.
@@ -44,47 +43,48 @@ LaTeX Font Warning: Font shape `TU/ptm/m/it' undefined
 LaTeX Font Warning: Font shape `TU/ptm/bx/it' undefined
 (Font)              using `TU/ptm/bx/n' instead on input line 1090.
 
-\IEEEquantizedlength=\dimen148
-\IEEEquantizedlengthdiff=\dimen149
-\IEEEquantizedtextheightdiff=\dimen150
-\IEEEilabelindentA=\dimen151
-\IEEEilabelindentB=\dimen152
-\IEEEilabelindent=\dimen153
-\IEEEelabelindent=\dimen154
-\IEEEdlabelindent=\dimen155
-\IEEElabelindent=\dimen156
-\IEEEiednormlabelsep=\dimen157
-\IEEEiedmathlabelsep=\dimen158
-\IEEEiedtopsep=\skip49
-\c@section=\count193
-\c@subsection=\count194
-\c@subsubsection=\count195
-\c@paragraph=\count196
-\c@IEEEsubequation=\count197
-\abovecaptionskip=\skip50
-\belowcaptionskip=\skip51
-\c@figure=\count198
-\c@table=\count199
-\@IEEEeqnnumcols=\count266
-\@IEEEeqncolcnt=\count267
-\@IEEEsubeqnnumrollback=\count268
-\@IEEEquantizeheightA=\dimen159
-\@IEEEquantizeheightB=\dimen160
-\@IEEEquantizeheightC=\dimen161
-\@IEEEquantizeprevdepth=\dimen162
-\@IEEEquantizemultiple=\count269
-\@IEEEquantizeboxA=\box52
-\@IEEEtmpitemindent=\dimen163
-\IEEEPARstartletwidth=\dimen164
-\c@IEEEbiography=\count270
-\@IEEEtranrubishbin=\box53
-) (C:\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
-File: l3backend-xetex.def 2024-05-08 L3 backend support: XeTeX
-\g__graphics_track_int=\count271
-\l__pdf_internal_box=\box54
-\g__pdf_backend_annotation_int=\count272
-\g__pdf_backend_link_int=\count273
-) (hello.aux)
+\IEEEquantizedlength=\dimen147
+\IEEEquantizedlengthdiff=\dimen148
+\IEEEquantizedtextheightdiff=\dimen149
+\IEEEilabelindentA=\dimen150
+\IEEEilabelindentB=\dimen151
+\IEEEilabelindent=\dimen152
+\IEEEelabelindent=\dimen153
+\IEEEdlabelindent=\dimen154
+\IEEElabelindent=\dimen155
+\IEEEiednormlabelsep=\dimen156
+\IEEEiedmathlabelsep=\dimen157
+\IEEEiedtopsep=\skip48
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@IEEEsubequation=\count190
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count191
+\c@table=\count192
+\@IEEEeqnnumcols=\count193
+\@IEEEeqncolcnt=\count194
+\@IEEEsubeqnnumrollback=\count195
+\@IEEEquantizeheightA=\dimen158
+\@IEEEquantizeheightB=\dimen159
+\@IEEEquantizeheightC=\dimen160
+\@IEEEquantizeprevdepth=\dimen161
+\@IEEEquantizemultiple=\count196
+\@IEEEquantizeboxA=\box51
+\@IEEEtmpitemindent=\dimen162
+\IEEEPARstartletwidth=\dimen163
+\c@IEEEbiography=\count197
+\@IEEEtranrubishbin=\box52
+) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2023-11-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count198
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count199
+\g__pdf_backend_annotation_int=\count266
+\g__pdf_backend_link_int=\count267
+) (./hello.aux)
 \openout1 = `hello.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
@@ -96,10 +96,8 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-.
-
-(C:\MiKTeX\tex/latex/base\ts1cmr.fd
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3.
+ (c:/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
@@ -210,18 +208,14 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-
-
-
-
 [1
 
 
 
-] (hello.aux)
+] (./hello.aux)
  ***********
-LaTeX2e <2024-06-01>
-L3 programming layer <2024-05-08>
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-12-11>
  ***********
 
 
@@ -229,12 +223,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 1252 strings out of 409068
- 26025 string characters out of 5764738
- 1921545 words of memory out of 5000000
- 23950 multiletter control sequences out of 15000+600000
+ 1253 strings out of 474831
+ 26335 string characters out of 5763248
+ 1920109 words of memory out of 5000000
+ 23415 multiletter control sequences out of 15000+600000
  558149 words of font info for 46 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 35i,8n,50p,202b,254s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 35i,8n,50p,196b,254s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on hello.pdf (1 page).
